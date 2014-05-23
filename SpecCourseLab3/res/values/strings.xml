@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SpecCourseLab3</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="show_books">Show me books!</string>
+    <string name="title_activity_books">Books</string>
+    <string name="show_authors">Show me authors!</string>
+    <string name="book_title">BookTitle</string>
+    <string name="books_provider">Simple</string>
+    <string name="title_activity_book_details">Book details</string>
+
+</resources>
